@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #fafafa;
+}
+
+
+@font-face {
+  font-family: 'gotham';
+  src: url(assets/fonts/gotham/Gotham-Book.otf);
+}
+@font-face {
+  font-family: 'gotham-b';
+  src: url(assets/fonts/gotham/Gotham-Bold.otf);
+}
+@font-face {
+  font-family: 'gotham-l';
+  src: url(assets/fonts/gotham/Gotham-Light.otf);
+}
